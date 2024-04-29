@@ -24,6 +24,10 @@ public class BuyOrSell {
 		ans = methodtwo(arr, N);
 
 		System.out.println(ans);
+		System.out.println("SUba");
+		
+
+		
 	}
 
 	private static int methodtwo(int[] arr, int n) {
